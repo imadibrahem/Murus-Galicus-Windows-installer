@@ -1,6 +1,6 @@
 # Murus Gallicus – Windows Installer
 
-This repository contains a **Windows installer** for the strategic board game **Murus Gallicus**.
+This repository contains a **Windows installer** for the strategic board game **Murus Gallicus** designed by **Phil Leduc**.
 
 ---
 
