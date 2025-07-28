@@ -29,7 +29,7 @@ To understand how Murus Gallicus is played, check out these links:
 
 ## 🖥 Installation Instructions
 
-1. 📦 [Download the `.exe` installer file](#) *(link to release will be here)*
+1. 📦 [Download the `.exe` installer file]
 2. 💾 Run the installer and follow the setup steps
 3. 📂 After installation, **move the installed game folder out of `Program Files`** to avoid issues with hashing and saving progress (e.g., Caesar learning)
 4. ▶ Launch the game:
